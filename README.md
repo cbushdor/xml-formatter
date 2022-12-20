@@ -6,7 +6,7 @@
 
 ```
 $ curl -fLo ~/.vim/autoload/plug.vim --create-dirs \
-https://raw.githubusercontent.com/junegunn/vim-plug/master/plug.vim
+        https://raw.githubusercontent.com/junegunn/vim-plug/master/plug.vim
 ```
 
 Create a ~/.vimrc file (if you don't have one already), and enter this text:
