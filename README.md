@@ -1,19 +1,19 @@
 # xml-formatter
 
-To install:
+## Installing plugins with vim-plug
 
-Installing plugins with vim-plug
-
-Install vim-plug so that it auto-loads at launch with:
+**Install vim-plug so that it auto-loads at launch with:**
 
 $ curl -fLo ~/.vim/autoload/plug.vim --create-dirs \
 https://raw.githubusercontent.com/junegunn/vim-plug/master/plug.vim
 
 Create a ~/.vimrc file (if you don't have one already), and enter this text:
 
-call plug#begin()
-Plug 'cbushdor/xml-formatter'
-call plug#end()
+**call plug#begin()**
+
+* *Plug 'cbushdor/xml-formatter'* *
+
+**call plug#end()**
 
 Each time you want to install a plugin, you must enter the name and location of the plugin between the plug#begin() and plug#end lines.
 
