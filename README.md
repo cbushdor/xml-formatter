@@ -22,10 +22,16 @@ Each time you want to install a plugin, you must enter the name and location of 
 If the plugin you want isn't hosted on GitHub, then you can provide the full URL instead of just the GitHub username and project ID. You can even "install" local plugins outside of your ~/.vim directory.
 
 Finally, start Vim and prompt vim-plug to install the plugins listed in ~/.vimrc:
+```
 :PlugInstall
+```
 
 Wait for the plugins to be downloaded.
 
 To update type one of those comands:
+```
 :PlugUpdate
+```
+```
 :PlugUpdate FormatXML
+```
