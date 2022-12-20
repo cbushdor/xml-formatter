@@ -4,8 +4,10 @@
 
 **Install vim-plug so that it auto-loads at launch with:**
 
+```
 $ curl -fLo ~/.vim/autoload/plug.vim --create-dirs \
 https://raw.githubusercontent.com/junegunn/vim-plug/master/plug.vim
+```
 
 Create a ~/.vimrc file (if you don't have one already), and enter this text:
 
