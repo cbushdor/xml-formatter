@@ -11,7 +11,7 @@ Create a ~/.vimrc file (if you don't have one already), and enter this text:
 
 **call plug#begin()**
 
-* *Plug 'cbushdor/xml-formatter'* *
+* Plug 'cbushdor/xml-formatter'*
 
 **call plug#end()**
 
