@@ -17,7 +17,7 @@ Plug 'cbushdor/xml-formatter'
 call plug#end()
 ```
 
-Each time you want to install a plugin, you must enter the name and location of the plugin between the plug#begin() and plug#end lines.
+Each time you want to install a plugin, you must enter the name and location of the plugin between the **plug#begin()** and **plug#end** lines.
 
 If the plugin you want isn't hosted on GitHub, then you can provide the full URL instead of just the GitHub username and project ID. You can even "install" local plugins outside of your ~/.vim directory.
 
