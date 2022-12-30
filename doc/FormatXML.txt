@@ -1,0 +1,3 @@
+*formatxml.txt*   Extended "%" formatxmling
+
+Hello from toto
