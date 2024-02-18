@@ -35,3 +35,31 @@ To update type one of those comands:
 ```
 :PlugUpdate FormatXML
 ```
+
+# License
+
+Attribution-NonCommercial 3.0 Unported (CC BY-NC 3.0)
+* 	Permission is granted to copy, distribute, and/or modify this document under the terms of the Creative Commons Attribution-NonCommercial 3.0
+ 	Unported License, which is available at http://creativecommons.org/licenses/by-nc/3.0/.
+
+# CAVEATS
+
+<!--
+If several files are opened in the same vim, headers might not be updated properly when file are saved.
+-->
+
+If a file is closed with *:x* command, fields are not updated properly.
+
+
+# TODO
+
+Help commands need to be re-written s.a :help MyHeadersFill_file.
+
+# Credits
+
+[Vim](https://www.vim.org/)
+Made from/Based on [Fandom](https://vim.fandom.com/wiki/Pretty-formatting_XML) example!
+
+# Contact
+
+Email Address : cbushdor@laposte.net
